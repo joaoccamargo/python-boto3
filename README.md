@@ -14,5 +14,5 @@ AWS CONFIG
 region = us-east-1
 
 Run
-python upload_fotos_s3.py
+python main.py
 
